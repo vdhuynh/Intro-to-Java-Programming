@@ -1,0 +1,24 @@
+class Main {
+  public static void main(String[] args) {
+    
+    int x; // declare vs initialize 
+    x = 6; // initialized
+    char y; // declared
+    y = 'o'; // initialize
+    System.out.println(y);
+    int a = 5;
+    int b = 8;
+    int c = 3;
+    int sum = a + b + c;
+    System.out.println(sum);
+    // same with other operators, - , *, /
+    // PEMDAS, order of operations
+    // if one data type is a double and used with ints, the result will be converted to a double
+    // Math.pow() in java, not **
+
+    // type conversion (double), (int)
+  }
+}
+
+// Comment
+// Use camelCase or snake_case for names

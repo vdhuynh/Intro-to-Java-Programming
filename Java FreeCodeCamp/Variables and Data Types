@@ -1,0 +1,17 @@
+class Main {
+  public static void main(String[] args) {
+    // primitive data types
+    int hello_world = 5; // int data type
+    double num2 = 5.0; // double (float) data type, decimal
+    boolean b = false; // boolean data type
+    char c = 'h'; // char data type
+    // not primitive data types
+    String str = "Bob";
+
+    int bob_num = hello_world; // assign existing variables to a new variable
+    
+    System.out.println(bob_num);
+  }
+}
+// Comment
+// Use camelCase or snake_case for names
